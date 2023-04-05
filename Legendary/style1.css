@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #efe784;
+    margin: 0 200px;
+}
+.imageFond{
+    background-image: url(./Images/header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+
+}
+.imageFond img{
+    display: block;
+    margin: 0 auto;
+    padding: 200px 0 20px;
+}
+.imageFond p{
+    text-align: center;
+    color: #efe784;
+    font-size: 30px;
+    font-weight:lighter;
+    letter-spacing: 20px;
+}
+.intro{
+    width: 100%;
+    height: 500px;
+    background-color:#3e3838;
+    color: #efe784;
+}
+.div0{
+    margin: 0 155px;
+}
+.intro h2{
+    text-align: center;
+    text-decoration: overline underline;
+    padding: 30px 0 0;
+    font-weight: 100;
+    font-size: 50px;
+}
+.intro h1{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 100;
+    margin: 50px auto 50px;
+    width: 750px;
+    line-height: 35px;
+}
+.avengers{
+    width: 100%;
+    height: 780px;
+    background-color: white;
+}
+.div1{
+    margin: 0 155px;
+}
+.avengers h2{
+    color: #6cbcb3;
+    font-size: 40px;
+    font-weight: 100;
+    padding: 20px 0 20px;
+}
+.div1 p{
+    width: 800px;
+    line-height: 35px;
+    font-weight: 100;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.div1 img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+.div1 .second p{
+    color: #6cbcb3;
+    line-height: 25px;
+    padding: 20px 0;
+    width: 400px;
+}
+.star{
+    width: 100%;
+    height:710px;
+    background-color: #6cbcb3;
+}
+.div2{
+    margin: 0 155px;
+}
+.div2 h2{
+    font-size: 40px;
+    font-weight: 100;
+    padding: 20px 0 20px;
+}
+.div2 p{
+    width: 800px;
+    line-height: 35px;
+    font-weight: 100;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.div2 img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    background-position:;
+}
+.div2 .trois p{
+    color: white;
+    width: 350px;
+    line-height: 25px;
+    padding: 20px 0;
+}
+.woman{
+    width: 100%;
+    height:800px;
+    background-color: #3e3838;
+    color: white;
+}
+.div3{
+    margin: 0 155px;
+}
+.div3 h2{
+    font-size: 40px;
+    font-weight: 100;
+    padding: 20px 0 20px;
+}
+.div3 p{
+    width: 900px;
+    line-height: 35px;
+    font-weight: 100;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.div3 img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+.div3 .quatre{
+    width: 600px;
+    height: 50px;
+    padding-top: 20px;
+}
+.div3 .quatre p{
+    font-weight: 100;
+    width: 600px;
+    line-height: 0px;
+}
+footer{
+    width: 100%;
+    height:150px;
+    background-color:black;
+}
+footer img{
+    display: block;
+    margin: 0 100px;
+    padding: 30px 0;
+}
+footer p{
+    color: white;
+    margin: 0 100px;
+}
+footer p span{
+    color: #efe784;
+}
+
