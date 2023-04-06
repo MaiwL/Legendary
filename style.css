@@ -391,4 +391,10 @@ body main footer p span {
     font-size: 15px;
     padding: 5px 0 20px 0;
   }
+  body main footer img {
+    margin: 40px 0 20px 85px;
+  }
+  body main footer p {
+    margin-left: 85px;
+  }
 }
