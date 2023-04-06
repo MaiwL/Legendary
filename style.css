@@ -222,6 +222,7 @@ body main footer p span {
   body main .section1 .line h2 {
     font-size: 30px;
     padding: 5px 10px;
+    font-weight: 400;
   }
   body main .section1 h1 {
     font-size: 15px;
@@ -235,6 +236,8 @@ body main footer p span {
   body main .section2 h2 {
     margin-left: 20px;
     font-size: 30px;
+    font-weight: 400;
+    color: #3e3838;
   }
   body main .section2 p:nth-child(2) {
     margin-left: 20px;
@@ -258,6 +261,7 @@ body main footer p span {
   body main .section3 h2 {
     margin-left: 20px;
     font-size: 30px;
+    font-weight: 400;
   }
   body main .section3 p:nth-child(2) {
     margin-left: 20px;
@@ -280,7 +284,8 @@ body main footer p span {
   }
   body main .section4 h2 {
     margin-left: 20px;
-    font-size: 15px;
+    font-size: 30px;
+    font-weight: 400;
   }
   body main .section4 p:nth-child(2) {
     margin-left: 20px;
